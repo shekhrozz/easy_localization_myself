@@ -1,0 +1,20 @@
+{
+    "hello":"Hello World {name} {age}",
+    "money":"you have  {} dollar",
+    "About":"About Country",
+ "Country":"United States",
+ "degree":"Literacy rate:99%(2003 est.)",
+ "prezident":"Prezident",
+ "name":"Donald Trump",
+ "Vice:":"Vice president",
+"name2":"Micheal Pensce",
+"Area":"Landa Area",
+"km":"318,892,103(growth rate:0,77% birt rate",
+"Population":"Population(2014 est.)",
+"text":"318,892,103(growth rate:0,77% birt rate:\n1341/1000 infant\n mortality rate:6,17/1000",
+"sss": {
+    "w": "ssss",
+    "e": "gggg"
+}
+  
+}
